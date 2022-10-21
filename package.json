@@ -1,0 +1,22 @@
+{
+  "name": "filebin.js",
+  "version": "1.1.4-news",
+  "changelog": "Added badge to/Updated readme.md",
+  "description": "A javascript api for filebin.net",
+  "main": "src/api.js",
+  "author": "kuto",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "request": "^2.88.2"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignkuto/filebin.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ignkuto/filebin.js/issues"
+  },
+  "homepage": "https://github.com/ignkuto/filebin.js#readme"
+}
